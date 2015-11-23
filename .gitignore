@@ -71,3 +71,5 @@ proguard/
 ### Android Patch ###
 gen-external-apklibs
 
+### Large video file
+app/src/main/res/raw/big_buck_bunny_720p_surround.mp4
